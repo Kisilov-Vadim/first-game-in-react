@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/first-game-in-react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/first-game-in-react/static/js/main.a5dd57c1.chunk.js",
+    "main.js.map": "/first-game-in-react/static/js/main.a5dd57c1.chunk.js.map",
+    "runtime-main.js": "/first-game-in-react/static/js/runtime-main.f23fca82.js",
+    "runtime-main.js.map": "/first-game-in-react/static/js/runtime-main.f23fca82.js.map",
+    "static/js/2.e8d631e2.chunk.js": "/first-game-in-react/static/js/2.e8d631e2.chunk.js",
+    "static/js/2.e8d631e2.chunk.js.map": "/first-game-in-react/static/js/2.e8d631e2.chunk.js.map",
+    "index.html": "/first-game-in-react/index.html",
+    "precache-manifest.a6378148a1c64f341beabb364b373a3b.js": "/first-game-in-react/precache-manifest.a6378148a1c64f341beabb364b373a3b.js",
+    "service-worker.js": "/first-game-in-react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/first-game-in-react/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/first-game-in-react/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f23fca82.js",
+    "static/js/2.e8d631e2.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a5dd57c1.chunk.js"
+  ]
+}
